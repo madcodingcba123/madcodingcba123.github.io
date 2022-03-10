@@ -1,0 +1,21 @@
+.title {
+    font-size: xx-large;
+    
+}
+
+.authors {
+    color: rgb(194, 154, 226);
+}
+
+.cat {
+    width: 100%;
+}
+
+.sad {
+    width: 100%;
+    height: 45%;
+}
+
+body {
+    background-color: rgb(255, 246, 193);
+}
