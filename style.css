@@ -1,5 +1,6 @@
 .title {
     font-size: xx-large;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ababe936-ba58-43f7-9a25-854da1f1c4f7/d57hbli-5f2803cd-0de4-4cec-970d-8fa226f2018c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FiYWJlOTM2LWJhNTgtNDNmNy05YTI1LTg1NGRhMWYxYzRmN1wvZDU3aGJsaS01ZjI4MDNjZC0wZGU0LTRjZWMtOTcwZC04ZmEyMjZmMjAxOGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.K-dF2Qygwl9-v5RHIujLqQBpIZGsBrQhX1if5-WGy28);
     
 }
 
@@ -18,4 +19,19 @@
 
 body {
     background-color: rgb(255, 246, 193);
+    background-image: url(http://farm4.static.flickr.com/3085/3696756949_e0e201813c_o.jpg);
+}
+
+.wiki {
+    width: 100%;
+    
+}
+
+.row {
+    display: flex;
+    
+}
+
+.harassment {
+    text-align: center;
 }
